@@ -23,4 +23,4 @@ The data was provided by Rockbuster in the Project Brief. The data set worked on
 - Staff
 - Store
 # Visualizations
-Visualizations were created in Tableau. The link to the storyboard can be found here: 
+Visualizations were created in Tableau. The link to the storyboard can be found here: https://coach-courses-us.s3.amazonaws.com/exercises/1054/54352/ff2aee31cec320197ab89e9bea2179cf/Presentation-3.10-SQL-final-project-Rockbuster.pdf
